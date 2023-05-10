@@ -1,0 +1,13 @@
+.academia{
+    background-color: rgb(255, 193, 239);
+    border-radius: 19px;
+    text-align: center; 
+}
+
+.caixa{
+     margin: 10%;
+     text-align: center;
+}
+.titulo{
+    font-size: 500%;
+}
